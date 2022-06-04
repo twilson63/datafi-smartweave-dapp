@@ -657,10 +657,10 @@
     "mitt" "^3.0.0"
     "typescript-is" "^0.19.0"
 
-"arweave@^1.10.0", "arweave@^1.10.13", "arweave@^1.10.18", "arweave@^1.10.23", "arweave@^1.11.4":
-  "integrity" "sha512-EPUms1OMet/VFmYMefgxIpj17PIlIZzIteiHAn0tetN+d/LRV6N9CCsrg/t22hL6yLGdGRHrYlDEdsWqjwSSYg=="
-  "resolved" "https://registry.npmjs.org/arweave/-/arweave-1.11.4.tgz"
-  "version" "1.11.4"
+"arweave@^1.10.0", "arweave@^1.10.13", "arweave@^1.10.18", "arweave@^1.10.23", "arweave@1.10.x":
+  "integrity" "sha512-HSt9BwbMJC7Ntx5VvlHnuYyxMA7CJV1Yw6cyy0E+cf6+m1ytUeEGnd+zW2a259ptz3A+oJyRLA4zwHcC5R80gQ=="
+  "resolved" "https://registry.npmjs.org/arweave/-/arweave-1.10.24.tgz"
+  "version" "1.10.24"
   dependencies:
     "arconnect" "^0.4.2"
     "asn1.js" "^5.4.1"

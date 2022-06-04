@@ -15,7 +15,7 @@
     "vite": "^2.9.9"
   },
   "dependencies": {
-    "arweave": "^1.11.4",
+    "arweave": "1.10.x",
     "arweave-wallet-connector": "^0.0.30"
   }
 }
